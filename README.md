@@ -9,7 +9,7 @@ Este es el backend del formulario de contacto utilizado en mi [portafolio person
 - **Node.js**
 - **Express**
 - **Nodemailer**
-- **dotenv** (para variables de entorno)
+- **dotenv** 
 - **CORS**
 - **body-parser**
 
